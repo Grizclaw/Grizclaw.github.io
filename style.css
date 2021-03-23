@@ -1,0 +1,24 @@
+.navbar {
+  background-color: #eece92;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #ffc107;
+}
+
+#about {
+  background-color: #273036;
+}
+
+#Projects {
+  background-color: #ffc107;
+}
+
+#contact {
+  background-color: #273036;
+}
+
+section {
+  padding-top: 5rem;
+}
